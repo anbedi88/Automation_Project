@@ -44,3 +44,4 @@ else
       echo -e "$LOGTY \t$TIMECR \t$TYPE \t$firstr" >>/var/www/html/inventory.html
    done </tmp/text
 fi
+
